@@ -1,0 +1,264 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+        /* Search Bar Styles */
+        .search-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
+            border-radius: 50px;
+            max-width: 640px;
+            margin: 20px auto;
+            gap: 10px;
+            position: relative;
+        }
+
+        .search-input-container {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            flex: 1;
+        }
+
+        .search-input-label {
+            font-size: 14px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        #search-bar {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: none;
+            outline: none;
+            color: #333;
+        }
+
+        .divider {
+            height: 30px;
+            border-left: 1px solid #ddd;
+        }
+
+        #search-button {
+            background-color: rgb(21, 127, 103);
+            color: white;
+            border: none;
+            padding: 12px;
+            cursor: pointer;
+            border-radius: 50%;
+            transition: background-color 0.3s ease;
+            width: 45px;
+            height: 45px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #search-button:hover {
+            background-color: rgb(21, 127, 103);
+        }
+
+        #search-button svg {
+            fill: white;
+            width: 20px;
+            height: 20px;
+        }
+
+        #search-chip-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 10px;
+            gap: 10px;
+        }
+
+        .summary-chip {
+            display: inline-flex;
+            align-items: center;
+            padding: 8px 12px;
+            background-color: #e0f5ec;
+            color: #00796b;
+            border-radius: 16px;
+            font-size: 14px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+/* Property Card Styles */
+.ahref {
+    text-decoration: none;
+    padding: 24px;
+}
+
+.plp-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 8px;
+}
+
+.card {
+    width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-image {
+    position: relative;
+    overflow: hidden;
+    height: 480px;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.image-chip {
+    position: absolute; /* Changed from relative to absolute */
+    top: 10px; /* Position it near the top of the image */
+    right: 10px; /* Position it from the left side */
+    display: inline-flex;
+    height: 24px;
+    padding: 0px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border: 1px solid var(--success-success-600, #4AA23A);
+    background: var(--success-success-50, #ECF7EA);
+    z-index: 10; /* Ensuring it stays above the image and other elements */
+    color: var(--success-success-800, #285F1E);
+    /* Support text/$caption-1-m (12px) */
+    font-family: Silka;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; /* 133.333% */
+    letter-spacing: 0.1px;
+}
+
+.image-content {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-left: 12px;
+    background: linear-gradient(0deg, #242E2C 0%, rgba(36, 46, 44, 0.59) 53%, rgba(36, 46, 44, 0) 100%);
+    color: #FFF;
+    padding: 10px;
+}
+
+.street {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.address {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.card-details {
+    padding: 16px;
+    background: #242E2C;
+    color: #242E2C;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: space-between;
+    
+}
+
+.price-info {
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin: 0;
+}
+
+.registration-button {
+    padding: 10px 20px;
+    background: #157F67;
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+.registration-button:hover {
+    background: #135e50;
+}
+
+.summary-response {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.chip-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+}
+
+.summary-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 12px;
+    background-color: #e0f5ec;
+    color: #157F67;
+    border-radius: 16px;
+    font-size: 14px;
+    margin: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styles */
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    height: 32px;
+    width: auto;
+    align-items: left;
+}

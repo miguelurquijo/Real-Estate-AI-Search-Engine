@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from openai import OpenAI
 
-client = OpenAI(api_key='OPENAI_API_KEY')
+client = OpenAI(api_key='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')
 import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
@@ -27,6 +27,7 @@ def generate_query_embedding(query):
 
 # Function to pre-filter projects based on criteria
 def pre_filter_projects(projects, filters):
+    print("Received filters:", filters)
     if not isinstance(filters, dict):
         print("Warning: filters is not a dictionary. Defaulting to an empty dictionary.")
         filters = {}  # Default to empty dictionary if filters is not the right type

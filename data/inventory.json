@@ -1,0 +1,2998 @@
+[
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "vigilance_and_security"
+                },
+                {
+                    "name": "berbecue"
+                },
+                {
+                    "name": "terrace"
+                },
+                {
+                    "name": "childrens_playground"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "coworking"
+                },
+                {
+                    "name": "garden"
+                },
+                {
+                    "name": "laundry"
+                },
+                {
+                    "name": "bike_parking"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/41477/whatsapp_image_2024-10-18_at_12.jpeg"
+        },
+        "code": "01GZYD36RNT634B9K9K48MEFZ1",
+        "companies": [
+            {
+                "company_id": "e4f6d0b9-2abf-486d-9132-21d97acc2a1b",
+                "company_name": "Grupo Somma",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Insur 364 viene a revolucionar el mercado de la Roma Norte, centro del espíritu artístico y culinario de la Ciudad de México donde se albergan un número creciente de profesionales jóvenes, turistas locales e internacionales entorno a restaurantes, bares, museos y actividades que hacen de esta zona una de las más vivas de la Ciudad de México. Ubicado entre la Roma Norte y la Condesa, a tan solo 3 minutos del Parque México, a unos cuantos minutos de la fuente Cibeles y a una cuadra de la calle Ámsterdam. Contaras con Rooftop común para todos los departamentos, muebles exteriores, zona de asadores y comedor, zona de mascotas, zona de lavadoras y secadoras comunes, área de coworking  y zona de jardín para niños. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1.5,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2026-02-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 49.93,
+            "min_area": 40.93,
+            "min_price": 3530000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4110425,
+            "longitude": -99.1665678,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "InSur 364",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/insur-364"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36227/2.jpg"
+        },
+        "code": "01HGBYTXK7C1JN8T5AR5EJATPJ",
+        "companies": [
+            {
+                "company_id": "bfb71b7c-2a2b-4201-b528-db6199e9b335",
+                "company_name": "LAP: Lomelín Administradora de Proyectos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "SLP 96 Ubicado en la prestigiosa colonia Roma Norte de la Ciudad de México, ofrece una ubicación privilegiada y de alta plusvalia en una de las zonas más emocionantes de la ciudad, convirtiéndose en uno de los mejores lugares para vivir o invertir.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 0
+            },
+            "delivered_at": "2025-04-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 107.77,
+            "min_area": 34.44,
+            "min_price": 3650000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4140003,
+            "longitude": -99.1590433,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "San Luis Potosí 96",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/san-luis-potosi-96"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                },
+                {
+                    "name": "24_hour_surveillance"
+                },
+                {
+                    "name": "terrace"
+                },
+                {
+                    "name": "elevator"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36013/1.jpg"
+        },
+        "code": "01GW2ZW7DJ4NA1PNW64M78FARB",
+        "companies": [
+            {
+                "company_id": "90853289-7488-4e6b-8c85-e8cc1d8c09aa",
+                "company_name": "envase",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Solana es un proyecto que  ha sido diseñado para mantener la escala de la colonia en la que se encuentra. Ofreciendo 50% más de áreas libres exigido por norma para darle prioridad al espacio exterior, a la luz natural y a la presencia de vegetación. Todo en beneficio a los habitantes del proyecto. La construcción repartida en cuatro volúmenes separados, dos de ellos con forma piramidal, asegura que cada uno de los ocho departamentos exclusivos tenga al menos un área abierta privada como terraza, patio interno o roof garden. Todos los departamentos tienen espacios abiertos rodeados de vegetacion y luz natural",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 3,
+                "min_bathroom": 2.5
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2026-01-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 206,
+            "min_area": 108,
+            "min_price": 4825000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4482061,
+            "longitude": -99.17564019999999,
+            "neighborhood": "Anáhuac",
+            "neighborhood_code": "MX09001L000015147",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Miguel Hidalgo",
+            "zone_code": "MX09001Z000013510"
+        },
+        "name": "Solana",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/solana"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/25575/slp100_1.jpg"
+        },
+        "code": "01HHFXBY4ZR1CVEPM5F0HDXK58",
+        "companies": [
+            {
+                "company_id": "bfb71b7c-2a2b-4201-b528-db6199e9b335",
+                "company_name": "LAP: Lomelín Administradora de Proyectos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "SLP 100 Ubicado en la prestigiosa colonia Roma Norte de la Ciudad de México, ofrece una ubicación privilegiada y de alta plusvalía en una de las zonas más emocionantes de la ciudad, convirtiéndose en uno de los mejores lugares para vivir o invertir.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2026-02-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 80.53,
+            "min_area": 41.06,
+            "min_price": 4050000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4139916,
+            "longitude": -99.1592163,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "San Luis Potosí 100",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/san-luis-potosi-100"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/37827/fachada.png"
+        },
+        "code": "01GWQ17EXCH6CVGE5EMKMYRZKV",
+        "companies": [
+            {
+                "company_id": "d97e4df9-12b7-4d91-b2d1-501f4d2a367e",
+                "company_name": "Prima Desarrolladores",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El conjunto residencial se encuentra en Narvarte Poniente, una de las colonias más céntricas y de mayor crecimiento de la CDMX. Podrás encontrar una diversidad de oferta gastronómica, cultural, parques, centros comerciales, Parque Delta, entre otros. Destacado por ser una colonia familiar, ofreciendo un punto estratégico para llevar una vida cosmopolita y bien comunicada.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2025-12-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 181.8,
+            "min_area": 125.4,
+            "min_price": 6312541,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 2,
+                "total": 10
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3913142,
+            "longitude": -99.15705299999999,
+            "neighborhood": "Narvarte",
+            "neighborhood_code": "MX09001L000014995",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Anaxágoras 584",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/anaxagoras-584"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/26945/01_fachada_frontal.jpg"
+        },
+        "code": "01HNE8Y370PT8279VKG3NRP3H8",
+        "companies": [
+            {
+                "company_id": "2b488b37-dbbe-4a85-b56c-9495c4550a58",
+                "company_name": "Agge",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Exclusivo conjunto habitacional en la calle Fray Angelico con 15 departamentos distribuidos en 4 niveles. Los departamentos van desde 60 m2 hasta 80 m2. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 3,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2026-02-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 136.45,
+            "min_area": 61.56,
+            "min_price": 3648812,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3796506,
+            "longitude": -99.19022819999999,
+            "neighborhood": "Santa María Nonoalco",
+            "neighborhood_code": "MX09001L000014983",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Fray Angelico",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/fray-angelico"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/25640/fach_-1__1_.jpg"
+        },
+        "code": "01HJ9WYKK4K4WH2JKNAG6B5HK2",
+        "companies": [
+            {
+                "company_id": "16e152d0-436e-4389-8c50-54f87e49f796",
+                "company_name": "Bayta",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Bayta Narvarte es un proyecto residencial que cuenta con 28 departamentos. Está ubicado en la Narvarte Poniente, una colonia tranquila con mucha tradición. El proyecto cuenta con excelentes distribuciones y acabados que te permitiran sacar lo mejor de tu vida en tu día a día.\nEl desarrollo cuenta con bodegas a la venta, consultar disponibilidad y precio.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2025-05-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 68.5,
+            "min_area": 60,
+            "min_price": 3650000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3899441,
+            "longitude": -99.1568368,
+            "neighborhood": "Narvarte",
+            "neighborhood_code": "MX09001L000014995",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Bayta Narvarte",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/bayta-narvarte"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/38643/paginas_desdecarpeta_de_ventas_rio_grijalva_35_preventa_agos2024_pagina_2.jpg"
+        },
+        "code": "01J5Y2T3VHDJY9016ENTZ27ZB2",
+        "companies": [
+            {
+                "company_id": "e0ed313d-d834-427d-8030-09c2ea349574",
+                "company_name": "Punto Destino",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Si estás buscando un lugar para vivir en la Ciudad de México, Río Grijalva 35 es una excelente opción. Ya que la Colonia Cuauhtémoc ofrece una gran variedad de ventajas, como un ambiente cosmopolita, una diversidad cultural y una rica historia.\nRío Grijalva 35 te dará un estilo de vida excepcional en un entorno que fusiona la elegancia clásica con la vibrante energía de la ciudad.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2025-11-01T00:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 103.11,
+            "min_area": 70.1,
+            "min_price": 5842500,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4334119,
+            "longitude": -99.1702157,
+            "neighborhood": "Colonia Cuauhtémoc",
+            "neighborhood_code": "MX09001L000015022",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Río Grijalva 35",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/rio-grijalva-35"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/41379/paginas_desdebrochure_digital_torre_alhena-3_pagina_1_imagen_0001.jpg"
+        },
+        "code": "01JAB9RW5D0H1B8G619FJ92FY9",
+        "companies": [
+            {
+                "company_id": "14589c9d-bb83-47cf-b83c-0b7e5dbb1ae6",
+                "company_name": "CAABSA",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Conoce “Torre Alhena” by CAABSA, un lugar donde  la vida urbana se encuentra con el confort familiar.  Descubre un espacio diseñado para quienes valoran la elegancia y el diseño moderno, perfecto para crear \nrecuerdos inolvidables junto a tu familia. Nuestro desarrollo ofrece un hogar donde cada detalle está pensado para tu comodidad y la de tus seres queridos, con áreas verdes y amenidades que hacen de cada día una experiencia única. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2.5,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2028-03-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 147.98,
+            "min_area": 61.04,
+            "min_price": 4394880,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4357856,
+            "longitude": -99.1706166,
+            "neighborhood": "Anzures",
+            "neighborhood_code": "MX09001L000015173",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Miguel Hidalgo",
+            "zone_code": "MX09001Z000013510"
+        },
+        "name": "Torre Alhena",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/torre-alhena"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/37144/imagen_de_whatsapp_2024-07-31_a_las_13.jpg"
+        },
+        "code": "01J4568AGQP5HYF8WS3C2ARW00",
+        "companies": [
+            {
+                "company_id": "030365e0-40ca-4319-817d-e777f38fce69",
+                "company_name": "XAXX010101000",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Forma parte de un exclusivo pre lanzamiento en la colonia Juárez, accediendo a precios de lista de Friends and Family a través de La Haus.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 0,
+                "min_bedroom": 0
+            },
+            "delivered_at": "2026-12-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 28,
+            "min_area": 28,
+            "min_price": 2230935,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4258532,
+            "longitude": -99.161431,
+            "neighborhood": "Juárez",
+            "neighborhood_code": "MX09001L000015025",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Próximo lanzamiento en la Colonia Juárez",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/proximo-lanzamiento-en-la-colonia-juarez"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36345/fachada.jpg"
+        },
+        "code": "01H53M4B7CRYKE7DKJ39XNRC6S",
+        "companies": [
+            {
+                "company_id": "4d24df9b-d0b8-4dec-82de-21ede2becf8e",
+                "company_name": "Aransa",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Urban Greens Tamiahua posee un marcado carácter urbano, además de un diseño elegante y contemporáneo. Combina a su vez, elementos de la naturaleza tan esenciales para tu bienestar como son la luz, espacios abiertos al aire libre y vegetación. Con tan solo 35 viviendas, está concebido para vivir y conciliar el trabajo como nunca habías imaginado gracias a espacios exclusivos que te permiten disfrutar tu tiempo libre y mejorar la calidad de tu home office. Tamiahua Urban Greens está diseñado bajo el sello de Aransa Urban Country, un concepto de viviendas donde desconectarse del estresante ritmo de la ciudad es posible. Un espacio de máximo bienestar en donde vivir en calma y, por supuesto, un hogar seguro para ti y tu familia.\n\nAdicionalmente, el desarrollo contará con láminas acústicas en cada una de las plantas lo cual reducirá significativamente el ruido entre unidades, así mismo, contarás con 2 estacionamientos que no interfieren con la comodidad y acceso de manera natural a tu lugar de residencia.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2026-03-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 179,
+            "min_area": 103.54,
+            "min_price": 5300000,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 1,
+                "total": 11
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.44596229999999,
+            "longitude": -99.1720758,
+            "neighborhood": "Anáhuac",
+            "neighborhood_code": "MX09001L000015147",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Miguel Hidalgo",
+            "zone_code": "MX09001Z000013510"
+        },
+        "name": "Urban Greens Tamiahua",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/urban-greens-tamiahua"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "commercial_area"
+                },
+                {
+                    "name": "pet_area"
+                },
+                {
+                    "name": "bike_parking"
+                },
+                {
+                    "name": "coworking"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "yoga_studio"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/32972/fachada-sensse.jpeg"
+        },
+        "code": "01GFNXJGJ7EWKPTHR75AVMJ2RP",
+        "companies": [
+            {
+                "company_id": "e2a69a4b-0609-462a-9680-f1a376e88338",
+                "company_name": "Estrategia Urbana",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Sennse Tabacalera es un desarrollo en preventa en una zona céntrica de la CDMX. Está ubicado en Tabacalera: una zona que cuenta con vías principales, lugares históricos y atractivos turísticos; también con una gran oferta de restaurantes, bares y comercios. \n\nEste desarrollo cuenta con departamentos para familias, parejas o solteros: con diferentes distribuciones que se adaptan a varios estilos de vida. También cuenta con amenidades para toda la familia, como gimnasio, zona para mascotas y coworking.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 0
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 0
+            },
+            "delivered_at": "2025-07-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 107,
+            "min_area": 42,
+            "min_price": 3736266,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4371989,
+            "longitude": -99.1554962,
+            "neighborhood": "Tabacalera",
+            "neighborhood_code": "MX09001L000015021",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Sennse Tabacalera",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/sennse-tabacalera-apartamento"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35553/casa-roma-350-preventa_pagina_02_imagen_0001.jpg"
+        },
+        "code": "01H1SY8MQM248WTCQ7BPTX7A9P",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Casa Roma 350 un moderno y funcional proyecto residencial ubicado sobre una de las avenidas más importantes de la Ciudad de México gracias a que se encuentra rodeada de importantes corporativos, restaurantes, centros comerciales y fácil acceso con colonias aledañas.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 0
+            },
+            "delivered_at": "2025-02-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 69,
+            "min_area": 34,
+            "min_price": 3213964,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.42283445140994,
+            "longitude": -99.16527378860552,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Casa Roma 350",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/casa-roma-350"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "coworking"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "pool"
+                },
+                {
+                    "name": "multipurpose_room"
+                },
+                {
+                    "name": "playroom"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35974/fachada_1.png"
+        },
+        "code": "01FTB6GQ6KTNB6P45P75AP1ZPA",
+        "companies": [
+            {
+                "company_id": "f218ed73-146a-4b36-bfc5-18a8bec02ede",
+                "company_name": "Acciona",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "SkyTown Insurgentes es un concepto inmobiliario diseñado para que seas tú mismo. Vive tal como lo deseas en un moderno departamento con amenidades que harán de todos tus momentos los más placenteros, inspiradores y divertidos.\nAquí, en el centro de todo, sucede lo más relevante y está al alcance de tus manos. \nEl proyecto se encuentra en Avenida Insurgentes, muy cerca de Paseo de la Reforma.\nUna ubicación estratégica que te acerca a la zona centro de la Ciudad de México y que te permite trasladarte de manera sencilla y rápida.\nVive lo mejor de la cultura, entretenimiento, atracciones turísticas, zonas financieras, corporativos, restaurantes y bares, todo a unos minutos de SkyTown Insurgentes..",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 0
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-04-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 113.97,
+            "min_area": 32.32,
+            "min_price": 3153687,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.43561045503806,
+            "longitude": -99.15735527873039,
+            "neighborhood": "Tabacalera",
+            "neighborhood_code": "MX09001L000015021",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Skytown Insurgentes",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-skytown-insurgentes-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36270/fachada_2a.jpg"
+        },
+        "code": "01HEXPAF2SX66M76RYG9VDR3WN",
+        "companies": [
+            {
+                "company_id": "125f22d9-fb3a-4c7f-8e1c-074e805e2dd3",
+                "company_name": "Vita Homes",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Es un proyecto exclusivo de 41 departamentos que tendrá un Jardín Central, diseñado y pensando en tu comodidad y confort ubicado en San Pablo Tepetlapa, Coyoacán, una zona muy conocida por su rica herencia cultural y sus tradiciones, aquí encontraras una mezcla de diseños arquitectónicos entre casas y departamentos, donde sin duda alguna ARÈA llego para cambiar tu estilo de vida.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2025-09-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 140.3,
+            "min_area": 65.98,
+            "min_price": 4297020,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3254056,
+            "longitude": -99.14065529999999,
+            "neighborhood": "San Pablo Tepetlapa",
+            "neighborhood_code": "MX09001L000015083",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Coyoacán",
+            "zone_code": "MX09001Z000013517"
+        },
+        "name": "Arèa",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/area"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                },
+                {
+                    "name": "berbecue"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "coworking"
+                },
+                {
+                    "name": "private_surveillance"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/40360/whatsapp_image_2024-09-23_at_12.jpeg"
+        },
+        "code": "01GASEK7HPR3JVJ156JSPJYWNG",
+        "companies": [
+            {
+                "company_id": "e4f6d0b9-2abf-486d-9132-21d97acc2a1b",
+                "company_name": "Grupo Somma",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El proyecto Naranjo 28 es una excelente opción para quienes buscan vivir en Santa Maria La Ribera. Esta zona es reconocida por su belleza arquitectónica, así como por su desarrollo constante y su ubicación privilegiada cerca de importantes vías de comunicación y transporte público.\n\nCuenta con 28 departamentos en venta en Naranjo 28, con distribuciones de 1 y 2 recámaras, que ofrecen una experiencia de vida cómoda y moderna. Los departamentos cuentan con amplios espacios, acabados de alta calidad y amenidades pensadas para mejorar la calidad de vida de sus residentes, como Rooftop común, gimnasio y seguridad 24/7",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-02-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 109,
+            "min_area": 38,
+            "min_price": 2499000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 17
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.44339387885757,
+            "longitude": -99.16003301742421,
+            "neighborhood": "Santa María la Ribera",
+            "neighborhood_code": "MX09001L000015019",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Naranjo 28",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/naranjo-28"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "rooftop"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/26414/copia_de_r_1_3.jpg"
+        },
+        "code": "01G9MJFDCKGP8G9F51C71XEZ8X",
+        "companies": [
+            {
+                "company_id": "89887ac8-7351-47b2-8db9-34de95b813db",
+                "company_name": "Grupo DIT Soluciones Inmobiliarias",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Proyecto habitacional de 15 departamentos en la Colonia Roma Sur, con la mejor ubicación, TEOL ofrece calidad de vida, con diseño vanguardista y precios a tu alcance. Tenemos el placer de invitarte como inversionista al proyecto TEOL Roma Sur, el primero de muchos desarrollos bajo la marca de TEOL.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-06-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 70,
+            "min_area": 41,
+            "min_price": 3220000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4039345,
+            "longitude": -99.1585126,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015006",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Teol",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/teol"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35522/tintoreto_3.jpg"
+        },
+        "code": "01G64CY46FWR0W5RRB7ENYX52H",
+        "companies": [
+            {
+                "company_id": "71c3aa42-9518-4334-b0fb-4619c14d610a",
+                "company_name": "Podiocapital",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "En AVORA TINTORETO 108 encontrarás espacios donde la tranquilidad y la convivencia sean de manera armónica al contar con departamentos con excelentes acabados, desde 66 m2 hasta 72 m2. Un desarrollo con excelente iluminación dando la calidez a cada uno de los espacios diseñados. \n\nTodos los departamentos fueron diseñados con esquema “Lock-Off” el cual le permitirá a los propietarios máxima flexibilidad para optimizar el rendimiento de su inversión permitiéndole rentar como Airbnb o renta de largo plazo un espacio de su unidad con acceso independiente.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1.5
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2022-12-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 151.58,
+            "min_area": 65.88,
+            "min_price": 3970000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3832624,
+            "longitude": -99.1818915,
+            "neighborhood": "Ciudad de los Deportes",
+            "neighborhood_code": "MX09001L000014984",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Avora Tintoreto 108",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/avora-tintoreto-108"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "elevator"
+                },
+                {
+                    "name": "24_hour_surveillance"
+                },
+                {
+                    "name": "terrace"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/30340/san_simon_renders_fachada.jpg"
+        },
+        "code": "01FYA2QJTEZ5BETVQKS33A1SAS",
+        "companies": [
+            {
+                "company_id": "2b488b37-dbbe-4a85-b56c-9495c4550a58",
+                "company_name": "Agge",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Conjunto habitacional localizado en calzada San Simón 57, a un costado de Santa María la Rivera. 32 departamentos de 1 y 2 recamarás distribuidos en 4 niveles. \nDepartamentos en Planta baja cuentan con terraza y los departamentos tipo PH cuentan con Roof Garden \nTodos los departamentos cuentan con Bodega y cajón de estacionamiento.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-07-01T00:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 125.23,
+            "min_area": 57.93,
+            "min_price": 3100646,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 32
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4586472,
+            "longitude": -99.1415076,
+            "neighborhood": "San Simón Tolnáhuac",
+            "neighborhood_code": "MX09001L000015033",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "San Simón 57",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-san-simon-57-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "pet_area"
+                },
+                {
+                    "name": "childrens_playground"
+                },
+                {
+                    "name": "berbecue"
+                },
+                {
+                    "name": "jacuzzi"
+                },
+                {
+                    "name": "garden"
+                },
+                {
+                    "name": "hammock_area"
+                },
+                {
+                    "name": "terrace_lounge"
+                },
+                {
+                    "name": "playground"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36063/pancupe_lrz_unv.jpg"
+        },
+        "code": "01GYWGTHN91EN6HPKRTH45AGCE",
+        "companies": [
+            {
+                "company_id": "3b52db6b-b0ac-44e2-91d6-be084a592cb1",
+                "company_name": "FICADE",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Departamentos de lujo en CDMX con amenidades exclusivas y espacios confortables. Bajo un concepto inmobiliario All-in-One, los departamentos inteligentes de SkyPark San Lorenzo cuentan con equipamiento premium y acabados de lujo a elegir según tu gusto. Ubicado en una de las mejores colonias de la Ciudad de México y diseñado con una arquitectura de vanguardia, en SkyPark San Lorenzo tendrás amenidades sustentables, recreativas e inteligentes, que te permitirán mantener el estilo de vida que mereces. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-03-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 109.96,
+            "min_area": 65.88,
+            "min_price": 5280000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 36
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3723816,
+            "longitude": -99.16425559999999,
+            "neighborhood": "Del Valle",
+            "neighborhood_code": "MX09001L000014977",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "SkyPark San Lorenzo 1009",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/skypark-san-lorenzo-1009"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                },
+                {
+                    "name": "elevator"
+                },
+                {
+                    "name": "24_hour_surveillance"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/30036/render_flores_magon_2.jpeg"
+        },
+        "code": "01FYS6M5FAHWHR472QADP7RMEF",
+        "companies": [
+            {
+                "company_id": "2b488b37-dbbe-4a85-b56c-9495c4550a58",
+                "company_name": "Agge",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Hermoso conjunto habitacional en Av. Ricardo Flores Magón 98 a un costado de Santa María la Rivera. El desarrollo cuenta con 31 departamentos y 9 lofts distribuidos en 8 niveles. El conjunto cuenta con Vigilancia las 24 horas del día, elevador y bodegas (costo a parte) Roof Gardens Privados para los PH y terrazas privadas en Planta baja. Este conjunto habitacional cuenta una excelente ubicación, cercano a centros educativos, centros y plazas comerciales, medios de transporte y avenidas principales que te conectan con el resto de la ciudad. \n\n\n*La bodega tiene un costo a parte que es de $50,000\n*Departamentos Tipo Loft no tienen Estacionamiento Incluido",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-12-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 153.48,
+            "min_area": 37.41,
+            "min_price": 1862643,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 32
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4521016,
+            "longitude": -99.14512769999999,
+            "neighborhood": "Guerrero",
+            "neighborhood_code": "MX09001L000015024",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Flores Magón 98",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-ricardo-flores-magon-98-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "berbecue"
+                },
+                {
+                    "name": "playroom"
+                },
+                {
+                    "name": "pet_area"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36869/fachada.jpg"
+        },
+        "code": "01FDZFF2ETSYC94AWK43A38HTX",
+        "companies": [
+            {
+                "company_id": "fd98baf6-d12f-40e2-862f-d1bdd9115f6d",
+                "company_name": "Land Proyectos Inmobiliarios",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Ubicado a una cuadra del parque de los venados, el edifico de 3 niveles está conformado por 29 departamentos con diversas características que se adaptan a toda necesidad, cuenta con excelentes amenidades y espacios comunes: más de 100 m2 de Roof garden, Gimnasio, área de aseo canino y Salón de Juegos.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 3,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-03-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 145.96,
+            "min_area": 50.47,
+            "min_price": 5259696,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 28
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3708652,
+            "longitude": -99.1542525,
+            "neighborhood": "Portales",
+            "neighborhood_code": "MX09001L000014973",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Azores 210",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/azores-210"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/project_image/image/50275/fachada.JPG"
+        },
+        "code": "01FQCFN0S60CD9WA9JCPQ24V1X",
+        "companies": [
+            {
+                "company_id": "671ae7b6-979a-42a6-abbb-3a4f544baa7d",
+                "company_name": "Galitha",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Este proyecto se ubica en la esquina de Francisco del Paso y Troncoso y la calle Oriente 102 en la colonia Tlazintla al oriente de la ciudad de México. A unos pasos de los metros Coyuya e Iztacalco, buena conectividad a través de vías principales como lo son Viaducto, Río Churubusco y Av. Plutarco Elías Calles. Cercanía a centros hospitalarios (IMSS y Sanatorio Maternidad María Sara). El barrio residencial de Iztacalco está dominado por el Autódromo Hermanos Rodríguez, sede del Gran Premio de la Fórmula Uno. En el Palacio de los Deportes, se realizan conciertos con bandas de renombre. El barrio de la Asunción contiene encantadoras edificaciones del siglo XVI, como la parroquia de San Matías Apóstol, cerca de la sombreada plaza Miguel Hidalgo.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2025-02-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 143.09,
+            "min_area": 57.22,
+            "min_price": 2040000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.395180578100113,
+            "longitude": -99.11329260145249,
+            "neighborhood": "Tlazintla",
+            "neighborhood_code": "MX09001L000017367",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Iztacalco",
+            "zone_code": "MX09001Z000013518"
+        },
+        "name": "Francisco del Paso 936",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-francisco-del-paso-936-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/29541/fachada1-1600x1066.jpg"
+        },
+        "code": "01FTB6ST6P4R1GSFZPHY2VCPRN",
+        "companies": [
+            {
+                "company_id": "671ae7b6-979a-42a6-abbb-3a4f544baa7d",
+                "company_name": "Galitha",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Es un desarrollo de vivienda multifamiliar ubicado en la colonia Ciudad Jardín, en la alcaldía Coyoacán al sur de la Ciudad de México; uno de los lugares con mayor tradición e historia de la capital que vemos reflejadas en sus bellas fachadas coloniales, calles empedradas, conventos, callejones, plazas y fuentes; además la colonia Ciudad Jardín se caracteriza ampliamente por ser una de las más verdes de la zona debido a la gran cantidad de parques que la rodean.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2022-02-01T00:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 126.78,
+            "min_area": 60.22,
+            "min_price": 3300000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 28
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.333735838842895,
+            "longitude": -99.14156941516943,
+            "neighborhood": "Ciudad Jardín",
+            "neighborhood_code": "MX09001L000015109",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Coyoacán",
+            "zone_code": "MX09001Z000013517"
+        },
+        "name": "Terraza Tulipán",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-terraza-tulipan-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "gym"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36246/fachada-noche-1-scaled.jpg"
+        },
+        "code": "01HETMG1BX0Z9WPPAA66WQK9NV",
+        "companies": [
+            {
+                "company_id": "125f22d9-fb3a-4c7f-8e1c-074e805e2dd3",
+                "company_name": "Vita Homes",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Nacida como zona de recreo aristócrata en época del Porfiriato, la Del Valle es hoy una colonia familiar pero juvenil, con historia pero en constante cambio, una zona que se adapta a los nuevos tiempos, igual que, un desarrollo como tu estilo de vida, moderno, funcional e innovador.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 3,
+                "min_bathroom": 3
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2023-12-01T00:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 204.61,
+            "min_area": 103.33,
+            "min_price": 10188904,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 2,
+                "total": 2
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.367093613317564,
+            "longitude": -99.16888040978698,
+            "neighborhood": "Del Valle",
+            "neighborhood_code": "MX09001L000014977",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Benci",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/benci"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "pool"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "lounge_office"
+                },
+                {
+                    "name": "playground"
+                },
+                {
+                    "name": "multipurpose_room"
+                },
+                {
+                    "name": "terrace"
+                },
+                {
+                    "name": "childrens_playground"
+                },
+                {
+                    "name": "pet_area"
+                },
+                {
+                    "name": "jacuzzi"
+                },
+                {
+                    "name": "garden"
+                },
+                {
+                    "name": "berbecue"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36038/1_3-fachada.jpg"
+        },
+        "code": "01GZ1KDRQ7K9HBQSC73FK7B5RK",
+        "companies": [
+            {
+                "company_id": "3b52db6b-b0ac-44e2-91d6-be084a592cb1",
+                "company_name": "FICADE",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Cerca del trabajo y la diversión. Encuentra todo lo que buscas en tiendas exclusivas, espacios para la familia y recreación en centros comerciales y áreas de esparcimiento que rodean al complejo: Cafeterías, Bisquets Obregón, Starbucks y Cielito Querido.\nTambién escuelas, colegio La Salle, Tecnológico Nacional de México y Universidad Latinoamericana Florida\nHospitales, Hospital San José, ISSSTE Adolfo Lopez Mateos y Hospital General Xoco. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-01-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 134.87,
+            "min_area": 62.99,
+            "min_price": 5140000,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 2,
+                "total": 28
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3621953,
+            "longitude": -99.172803,
+            "neighborhood": "Acacias",
+            "neighborhood_code": "MX09001L000014969",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Skypark Amores 1849",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/skypark-amores-1849"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35999/view5_reforma36_torre_aerea_ed.jpg"
+        },
+        "code": "01H1A90KA95ZF8QA41TZ8J3VNH",
+        "companies": [
+            {
+                "company_id": "072eced9-93e1-41ec-b70c-37df27b607f4",
+                "company_name": "Class Bienes Raíces",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El icónico Paseo de la Reforma; la avenida construida por el emperador Maximiliano a la semblanza de los Campos Elíseos en París ha sido por más de un siglo la imagen de nuestra ciudad capital gracias a sus áreas arboladas y famosos monumentos. Descubre, contempla, goza, conoce y domina el Paseo de la Reforma y nuestra ciudad capital desde lo más alto... Esto es JAI Reforma 36: lujosos studios & apartments con amenidades y servicios hoteleros de alto nivel. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2027-06-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 81.74,
+            "min_area": 37.01,
+            "min_price": 3677800,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.43395929999999,
+            "longitude": -99.1522137,
+            "neighborhood": "Juárez",
+            "neighborhood_code": "MX09001L000015025",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "JAI",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/jai"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                },
+                {
+                    "name": "commercial_area"
+                },
+                {
+                    "name": "terrace_lounge"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35839/4.jpg"
+        },
+        "code": "01H1WN5QTZRB6MANH0959ADAZK",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Ubicado en una de las zonas con mayor plusvalía de la Ciudad de México, convirtiéndose en uno de los mejores lugares para vivir o invertir debido a sus alrededores turísticos relevantes de la Ciudad: Insurgentes Sur, Condesa y La Roma. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-12-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 61,
+            "min_area": 40,
+            "min_price": 3677133,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4157924,
+            "longitude": -99.1638562,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Casa Roma 147",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/casa-roma-147"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/26825/02.jpeg"
+        },
+        "code": "01HP7589X3Y1V80MWDMAKYZ7ER",
+        "companies": [
+            {
+                "company_id": "bfb71b7c-2a2b-4201-b528-db6199e9b335",
+                "company_name": "LAP: Lomelín Administradora de Proyectos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Terralia Roma es privacidad, intimidad, eficiencia y aprovechamiento espacial donde la simplicidad y sencillez se combinan con la luz natural y cercanía con el estilo de vida de La Roma.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 0
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 0
+            },
+            "delivered_at": "2024-12-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 82.24,
+            "min_area": 38.18,
+            "min_price": 3700000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.41559939999999,
+            "longitude": -99.15592679999999,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Terralia Roma",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/terralia-roma"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35952/pd_sr21-2.jpg"
+        },
+        "code": "01HC0X1GK9H74Z0T6X9827HZQ4",
+        "companies": [
+            {
+                "company_id": "e0ed313d-d834-427d-8030-09c2ea349574",
+                "company_name": "Punto Destino",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Serapio Rendon 21 cuenta con exclusivos departamentos, con prototipos de 1 a 2 recámaras, diseñados con los más altos estándares de calidad y con acabados premium que te brindarán una experiencia de vida inigualable.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-05-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 119.85,
+            "min_area": 46.3,
+            "min_price": 3050000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 20
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4397643,
+            "longitude": -99.1591613,
+            "neighborhood": "San Rafael",
+            "neighborhood_code": "MX09001L000015023",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Serapio Rendón 21",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/serapio-rendon-21"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/37285/img_0472.jpg"
+        },
+        "code": "01J4JEEQ6NFXY5EW75BHF9VRGF",
+        "companies": [
+            {
+                "company_id": "9dc51a25-e65c-4a77-8894-a52c711b32bb",
+                "company_name": "Vexa",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El desarrollo cuenta con 81 departamentos distribuidos en dos torres de seis niveles cada una, con gran variedad de\namenidades para uso de todos los habitantes. \nEl principal atractivo de NIUA apartments son sus amplios espacios exteriores, los cuales cuentan con múltiples áreas verdes, entre ellas un patio central que gracias a su diseño de paisaje nos transporta\nfuera de esta ciudad.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-12-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 121,
+            "min_area": 60,
+            "min_price": 3995000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.396803703536502,
+            "longitude": -99.1639902759186,
+            "neighborhood": "Del Valle",
+            "neighborhood_code": "MX09001L000014997",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "NIUA",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/niua"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/37429/copia_de_copia_de_moresc_fachada_frontal.jpg"
+        },
+        "code": "01J4SFY011AJBDXHVD1AYCDV4G",
+        "companies": [
+            {
+                "company_id": "4795e7e8-867e-4f37-8af8-fd30fced1166",
+                "company_name": "Altius Group",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "More Escandón es un conjunto ubicado en la mejor zona de movilidad de la CDMX en la avenida Benjamin Franklin. Ofrece amenidades que son una extensión de tu departamento porque cada espacio cumple con una función que mejora tus posibilidades. Departamentos innovadores con espacios esenciales que ofrecen lo necesario: Áreas 100% optimizadas, Departamentos de 2 y 3 recámaras, con balcón y con 2 baños.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2026-07-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 142,
+            "min_area": 67,
+            "min_price": 4334497,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.40732359999999,
+            "longitude": -99.1833929,
+            "neighborhood": "Escandón",
+            "neighborhood_code": "MX09001L000015143",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Miguel Hidalgo",
+            "zone_code": "MX09001Z000013510"
+        },
+        "name": "More Escandón",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/more-escandon"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36106/002.jpg"
+        },
+        "code": "01HCAJCR9V1K5SVVRR2698ZJSV",
+        "companies": [
+            {
+                "company_id": "136ff325-f1be-4638-b73d-cecf6d14a827",
+                "company_name": "Grupo Esse",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El nuevo desarrollo residencial más EXCLUSIVO en la Col. Roma Norte, 14 departamentos desde 62.00 m2 hasta 165.00 m2, con gran iluminacion, amplitud y acabados importados de la más alta calidad, para una vida con la comodidad, lujo y tranquilidad que mereces.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-11-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 89.85,
+            "min_area": 62,
+            "min_price": 4860000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 2
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4131264,
+            "longitude": -99.1628781,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Privada Monterrey",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/privada-monterrey"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/34330/narvartefichatec_pagina_04_imagen_0001.jpg"
+        },
+        "code": "01FTB6PGG9RFVJGVCJTZB6EP1H",
+        "companies": [
+            {
+                "company_id": "b6e2fbca-6f68-4e32-b94f-f18a589e31bb",
+                "company_name": "Habitarq",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Cuidadosamente diseñado para brindar calidad y vida única, con amplios y luminosos departamentos con acabados de lujo y duraderos. Seguridad y comodidad en tu hogar, elevador, vigilancia, roof garden común y portones eléctricos que permiten el acceso al estacionamiento. Excelentes vías de acceso y salida, cerca de centros comerciales, restaurantes y bares, así como servicios y facilidades de transporte.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2.5,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2023-09-01T00:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 84.86,
+            "min_area": 60,
+            "min_price": 4515094,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 18
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3945885,
+            "longitude": -99.1563393,
+            "neighborhood": "Narvarte",
+            "neighborhood_code": "MX09001L000014995",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Cuauhtémoc 661",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-cuauhtemoc-661-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/25934/r1.jpg"
+        },
+        "code": "01HKWH46TNBCMF59M1QBQAYFBA",
+        "companies": [
+            {
+                "company_id": "2b488b37-dbbe-4a85-b56c-9495c4550a58",
+                "company_name": "Agge",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Mapimi es un proyecto residencial ubicado en una de las colonias mas atractivas de CDMX, que contara con 47 departamentos exclusivos, distribuidos en 8 niveles, con excelente conectividad vial y cerca a centros culturales, deportivos y la plaza de las tres culturas. ",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-08-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 125.55,
+            "min_area": 40.08,
+            "min_price": 1628671,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4586196,
+            "longitude": -99.125187,
+            "neighborhood": "Valle Gómez",
+            "neighborhood_code": "MX09001L000015030",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Mapimi 41",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/mapimi-41"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "elevator"
+                },
+                {
+                    "name": "24_hour_surveillance"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "business_center"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36154/lm_renders_fachada.jpg"
+        },
+        "code": "01FTB6NZYVR3NEF1PFJB6EG2F1",
+        "companies": [
+            {
+                "company_id": "2b488b37-dbbe-4a85-b56c-9495c4550a58",
+                "company_name": "Agge",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Lago Mayor además de ser un desarrollo que se distingue por su arquitectura y calidad de vida, ofrece una de las mejores ubicaciones. En Lago Mayor disfrutarás de la cercanía de centros comerciales, culturales, accesos a vías principales. Teniendo muy cerca de una de sus zonas con más impulso económico, Polanco. Contarás con Lobby, acceso controlado con caseta vigilancia, para que disfrutes de tu nuevo hogar sin preocupaciones dando una mejor calidad de vida. Entre sus amenidades cuenta con Gimnasio / usos Múltiples, Vigilancia, Elevador y Bodegas (Todos los departamentos cuentan con Bodega) Los PH cuentan con Roof Garden Privado así como los departamentos de Planta baja cuentan con Terraza. Todos los departamentos cuentan con dos lugares de estacionamiento.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 4,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2024-04-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 223.54,
+            "min_area": 101.24,
+            "min_price": 6779000,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 2,
+                "total": 24
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4487601,
+            "longitude": -99.1856365,
+            "neighborhood": "Peralitos",
+            "neighborhood_code": "MX09001L000015136",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Miguel Hidalgo",
+            "zone_code": "MX09001Z000013510"
+        },
+        "name": "Lago Mayor 82",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-lago-mayor-82-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36115/001.jpg"
+        },
+        "code": "01HCAK5BY72H3EG4X5Q38CFW3E",
+        "companies": [
+            {
+                "company_id": "136ff325-f1be-4638-b73d-cecf6d14a827",
+                "company_name": "Grupo Esse",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El nuevo residencial de ensueño de la colonia Miravalle. 38 departamentos desde 50 m2 hasta 120 m2. Diseñado a partir de la más alta TECNOLOGÍA y detalle, combinando la experiencia y profesionalismo que caracteriza a Grupo ESSE Inmobiliario, para lograr un proyecto de la más alta calidad de diseño.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-02-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 114,
+            "min_area": 50,
+            "min_price": 3530000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3609134,
+            "longitude": -99.13937779999999,
+            "neighborhood": "Miravalle",
+            "neighborhood_code": "MX09001L000014964",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Privada Plutarco",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/privada-plutarco"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/26495/1.jpg"
+        },
+        "code": "01HF4Q9MR6C9RRBJWR0TPN8JCB",
+        "companies": [
+            {
+                "company_id": "125f22d9-fb3a-4c7f-8e1c-074e805e2dd3",
+                "company_name": "Vita Homes",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Un lugar donde la vanguardia y la tradición se encuentra. Con sólo 6 niveles y en un concepto Boutique, Rione se alza en las inmediaciones de Av. Río Mixcoac para albergar 16 hermosos departamentos de dos recámaras con balcones y ventanas con espacios verdes que te darán una sensación de completa libertad y tranquilidad.\nUltimos 3 departamentos disponibles.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2023-12-01T00:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 75.63,
+            "min_area": 68.66,
+            "min_price": 5085000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 1
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.364429580212203,
+            "longitude": -99.17673893272877,
+            "neighborhood": "Acacias",
+            "neighborhood_code": "MX09001L000014969",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "RIONE",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/rione"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "pool"
+                },
+                {
+                    "name": "kids_pool"
+                },
+                {
+                    "name": "spa"
+                },
+                {
+                    "name": "playground"
+                },
+                {
+                    "name": "coffee"
+                },
+                {
+                    "name": "gym_with_equipment"
+                },
+                {
+                    "name": "jogging_track"
+                },
+                {
+                    "name": "business_center"
+                },
+                {
+                    "name": "multipurpose_room"
+                },
+                {
+                    "name": "terrace_lounge"
+                },
+                {
+                    "name": "urban_green_spaces"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/35569/uniccoy.png"
+        },
+        "code": "01G4D92C1Y5H5Q61HSVEKMYFCN",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Descubre departamentos diseñados bajo un concepto exclusivo y vanguardista con una gran atención en los detalles y acabados de lujo. • ¡Todos nuestros departamentos cuentan con 2 cajones de estacionamiento! (Sin estorbarse con vecinos y sin eleva autos) • Departamentos a partir 64m, desde • PH. S a partir de 176m, desde • 2 o 3 recámaras con 2 baños completos. • Departamentos con doble altura • Acabados de lujo • Mármol en baños y cocinas • Madera de Ingeniería • Terrazas habitables con vistas inigualables\n\nDisfruta de las amenidades cuidadosamente seleccionadas para\neste  desarrollo.\n\n·       Pool\n·       Zona de Chapoteaderos\n·       Spa\n·       Kids Club\n·       Cafetería\n·       Gimnasio con regadera\n·       Pista de Jogging\n·       Business Center\n·       Salón de Eventos\n·       Cine al Aire Libre\n·       Sky Bar con área Lounge, Grill y Teppanyaki\n·       Huerto Urbano\n·       Áreas Comunes en PB\n·       Más de 1,000m de áreas verdes",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 3,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2022-05-01T00:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 224,
+            "min_area": 78,
+            "min_price": 5173101,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 39
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3612413,
+            "longitude": -99.1523866,
+            "neighborhood": "Portales",
+            "neighborhood_code": "MX09001L000014965",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Único Coyoacán",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-unico-coyoacan-benito-juarez-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "rooftop"
+                },
+                {
+                    "name": "private_surveillance"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/32714/fachada_callemitla_baja.png"
+        },
+        "code": "01GBZKASEXRKYMPFHZST6DQ2XD",
+        "companies": [
+            {
+                "company_id": "db20add2-5d22-4cc5-907e-6622e746ab1b",
+                "company_name": "DE&CA Bienes Raíces",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Mitla 378, la mejor opción para mejorar tu calidad de vida. Experimenta vivir en un desarrollo que incluye elementos de la mejor calidad en diseño, contando con detalles modernos y un ambiente lleno de armonía. Dale un giro a tu vida y la de tus seres queridos. En este lugar tu tranquilidad y gozo son la prioridad, es por eso que incluye  todas las comodidades para que vivas como siempre lo has deseado. La colonia Narvarte es una gran zona emblemática de la Ciudad de México dentro de la alcaldía Benito Juárez, donde se concentra una gran cantidad de actividad económica, comercial y servicios de todo tipo. Caracterizada por sus hermosas y amplias calles con áreas verdes y avenidas con grandes camellones alineados con palmeras , así como sus casas de estilo arte déco y colonial californiano.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2023-06-01T00:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 197.26,
+            "min_area": 64.58,
+            "min_price": 6771105,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 1,
+                "total": 25
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3852261,
+            "longitude": -99.1504056,
+            "neighborhood": "Narvarte",
+            "neighborhood_code": "MX09001L000014996",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Mitla 378",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/mitla-378"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36087/puebla_212_fachada_1.jpg"
+        },
+        "code": "01FZB8ZM39GCHDB3B8NZNK7RYA",
+        "companies": [
+            {
+                "company_id": "1ad9e963-a816-4074-95c8-bd7d46b7ee12",
+                "company_name": "FRB Arquitectos Asociados",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Puebla 212 es un desarrollo que te entrega departamentos con acabados de lujo en una ubicación privilegiada de la CDMX. Este desarrollo de 8 niveles tiene las amenidades necesarias para que desde el momento en el que accedas puedas disfrutar de sus comodidades apreciando la calidad y el detalle que FRB Arquitectura entrega en sus proyectos.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-10-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 65,
+            "min_area": 43,
+            "min_price": 4070064,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4218722,
+            "longitude": -99.1654446,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015017",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Puebla 212",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-puebla-212-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36321/3.png"
+        },
+        "code": "01FF0KPC6DFFVHBD69SSYKNEGY",
+        "companies": [
+            {
+                "company_id": "af0ed13f-9a5b-4bbd-a720-ef2da070c4e7",
+                "company_name": "M2 Grupo Inmobiliario",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Lirio Reforma está ubicado a pocos pasos de Paseo de La Reforma que es una de las avenidas más importantes de la CDMX. Ofrece una amplia oferta de amenidades que lo hace más atractivo para inversión. Lirio Reforma se ubicará en el corazón de la Ciudad de México con múltiples atractivos turísticos alrededor.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2026-09-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 67.54,
+            "min_area": 38.62,
+            "min_price": 2539999,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.434088,
+            "longitude": -99.155107,
+            "neighborhood": "Tabacalera",
+            "neighborhood_code": "MX09001L000015021",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Lirio Reforma",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/lirio-reforma"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "sauna"
+                },
+                {
+                    "name": "gym"
+                },
+                {
+                    "name": "coworking"
+                },
+                {
+                    "name": "adult_lounge"
+                },
+                {
+                    "name": "delivery"
+                },
+                {
+                    "name": "lobby"
+                },
+                {
+                    "name": "lap_lane_"
+                },
+                {
+                    "name": "stoker"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/32735/2.jpg"
+        },
+        "code": "01FK6F2K12QQJ7KKAXATAHQZJX",
+        "companies": [
+            {
+                "company_id": "5f5c4645-ac63-4f3d-9063-ca42f5d24975",
+                "company_name": "ZKC",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Proyecto desarrollado en siete niveles con 162 departamentos de 2 recámaras y amenidades de lujo, ubicado en la colonia del Valle una de las zonas más tranquilas y céntricas de la Ciudad de México. Se dice que geográficamente es la zona con mejor comunicación en la ciudad, ya que se encuentra conectada a muchas áreas urbanas mediante numerosos transportes públicos y vialidades. Es en esta colonia donde se encarna el suburbio por excelencia; un ejemplo notable de urbanismo, convivencia y mezcla perfecta entre actividad constante y tranquilidad.\t\t\t\t\t",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2026-03-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 218.83,
+            "min_area": 59.84,
+            "min_price": 4050000,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3865169,
+            "longitude": -99.1618637,
+            "neighborhood": "Del Valle",
+            "neighborhood_code": "MX09001L000014988",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Alure del Valle",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-alure-del-valle-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "lobby"
+                },
+                {
+                    "name": "bike_parking"
+                },
+                {
+                    "name": "rooftop"
+                },
+                {
+                    "name": "vigilance_and_security"
+                },
+                {
+                    "name": "elevator"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/33835/eje_c1.jpg"
+        },
+        "code": "01G14MJWBQX83YHK5ZASAMKWQ9",
+        "companies": [
+            {
+                "company_id": "072eced9-93e1-41ec-b70c-37df27b607f4",
+                "company_name": "Class Bienes Raíces",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Eje Central 321 será el desarrollo que enmarcara tu futuro hogar. \nCon una ubicación envidiable, vivirás con tu familia un sin fin de comercios a tu alrededor, paseos a pocas cuadras de parque de los venados, escuelas, plazas comerciales y todo cobijados por una colonia consolidada y de tradición en la CDMX.\nCon Salida al sur de la ciudad por Tlalpan o al centro por Eje Central.\nDepartamentos con espacios pensados para familias modernas y acabados de alta gama.\nConoce el que podría ser tu futuro hogar.\n",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1.5
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 2
+            },
+            "delivered_at": "2023-04-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 156.91,
+            "min_area": 63.06,
+            "min_price": 4697200,
+            "parking_stats": {
+                "max_parking": 2,
+                "min_parking": 2,
+                "total": 9
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3696811,
+            "longitude": -99.14970149999999,
+            "neighborhood": "Portales",
+            "neighborhood_code": "MX09001L000014973",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Eje Central 321",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/desarrollo-eje-central-321-departamentos"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/41174/paginas_desdecasa_condesa_privee_vertical_pagina_1_imagen_0001.jpg"
+        },
+        "code": "01J9SBZEB8ZKFJVKW48K4G1ZTE",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Casa Condesa Privée Vertical ofrece departamentos de 1 y 3 recámaras en preventa, con una plusvalía de hasta 61%. Ubicado en la vibrante colonia Hipódromo Condesa, este desarrollo exclusivo cuenta con amenidades premium como sky pool, gimnasio y áreas pet friendly, todo a un precio 28% por debajo de la competencia",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2.5,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 3,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2026-04-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 221,
+            "min_area": 37,
+            "min_price": 3303028,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4087406,
+            "longitude": -99.18335119999999,
+            "neighborhood": "Condesa",
+            "neighborhood_code": "MX09001L000015005",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Casa Condesa",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/casa-condesa"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "elevator"
+                },
+                {
+                    "description": "Roof garden comun con bodega y baño",
+                    "name": "rooftop"
+                },
+                {
+                    "name": "24_hour_surveillance"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/33803/aure_compressed_pagina_03.jpg"
+        },
+        "code": "01FTB7ED4MZVC03QNTGRK1Q4PH",
+        "companies": [
+            {
+                "company_id": "072eced9-93e1-41ec-b70c-37df27b607f4",
+                "company_name": "Class Bienes Raíces",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "El edificio se encuentra en el punto medio entre salir al sur , el oriente y el centro de la ciudad, esto lo convierte en una opción muy cómoda para recorridos al trabajo, centros comerciales, centros de espectáculos, etc. Sin olvidar uno de los puntos fuertes de la Colonia Narvarte que es su variada oferta de comercio local, donde puedes encontrar todos los servicios y comodidades de una colonia de tradición de la CDMX.\n\nAure ofrece departamentos a la medida de familias modernas, con espacios muy aprovechados desde 65m² hasta 80m² los mas amplios. Todos ellos cuentan con 2 recamaras, 2 baños completos y con acabados, más un lugar de estacionamiento.\n\nSi requieres un espacio extra para reuniones o mascotas, el desarrollo ofrece roof garden privado para los departamentos PH.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 2
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2024-06-01T01:00:00-05:00",
+            "has_balcony": true,
+            "max_area": 132.14,
+            "min_area": 65.6,
+            "min_price": 4570000,
+            "parking_stats": {
+                "max_parking": 1,
+                "min_parking": 1,
+                "total": 2
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.3931009,
+            "longitude": -99.15995079999999,
+            "neighborhood": "Narvarte",
+            "neighborhood_code": "MX09001L000014995",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Benito Juárez",
+            "zone_code": "MX09001Z000013509"
+        },
+        "name": "Aure",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/aure"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "pool"
+                },
+                {
+                    "name": "pet_area"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/26526/a.jpg"
+        },
+        "code": "01HNE54M3KA9AZ0M7FW670A2GF",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "103 exclusivos lofts de 33 a 82 m2 en un desarrollo con amenidades cuidadosamente seleccionadas para este vanguardista desarrollo.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-04-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 83,
+            "min_area": 36,
+            "min_price": 2696981,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4379971,
+            "longitude": -99.15625,
+            "neighborhood": "Tabacalera",
+            "neighborhood_code": "MX09001L000015021",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Via Insurgentes",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/via-insurgentes"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "pet_area"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/36454/yu.png"
+        },
+        "code": "01HNDQHF2VABAJ272BX0XN7Q7F",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "Disfruta de tu propio espacio dentro de la colonia con mejor plusvalía de la Ciudad de México. Con un concepto de arquitectura de la más alta calidad, acorde con el estilo de vida que se ha convertido en una tendencia mundial y un diseño en el que sobresalen la eficiencia y aprovechamiento de espacios\n",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 2,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 2,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-05-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 109,
+            "min_area": 37,
+            "min_price": 3308379,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4110067,
+            "longitude": -99.1623341,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015006",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Casa Roma 240",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/casa-roma-240"
+        }
+    },
+    {
+        "attributes": {
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/41765/ur-baja-california-45-exteriores-05_1_.jpeg"
+        },
+        "code": "01JB2CCM30WN8Z5VJXJYBBFPWK",
+        "companies": [
+            {
+                "company_id": "be77e23c-39e8-4637-956d-aece3fae1fa6",
+                "company_name": "AR Desarrolladores ",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "BC45 es un desarrollo inmobiliario en preventa, que revolucionará el mercado en la colonia Roma Sur.\nPor sus características, amenidades, ubicación y precio, representa una gran oportunidad para todas aquellas personas que deseen invertir en bienes raíces y con ello obtener un ingreso pasivo, ya sea a través de la renta tradicional o a través de plataformas digitales o bien, para quien desee vivir en una de las zonas con mayor crecimiento registrado en los últimos años.",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1.5,
+                "min_bathroom": 1
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2026-01-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 69.19,
+            "min_area": 37.86,
+            "min_price": 2475580,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4066169,
+            "longitude": -99.1577364,
+            "neighborhood": "Roma",
+            "neighborhood_code": "MX09001L000015006",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Baja California 45",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/baja-california-45"
+        }
+    },
+    {
+        "attributes": {
+            "amenities": [
+                {
+                    "name": "pet_area"
+                }
+            ],
+            "cover": "https://ims.imgix.net/uploads/ims/asset/attachment/26456/4.jpg"
+        },
+        "code": "01HNDPA64P3300F7RJFNKAGP72",
+        "companies": [
+            {
+                "company_id": "8a7ac661-087c-44d6-9eed-f81bfcb20e96",
+                "company_name": "GDC Desarrollos",
+                "company_type": "contractor"
+            }
+        ],
+        "description": "66 departamentos tipo loft desde 34 m2 con acabados de alto nivel. El complemento perfecto para el estilo de vida que deseas lo encuentras en las amenidades de Park San Rafael",
+        "ims": {
+            "bathrooms_stats": {
+                "max_bathroom": 1,
+                "min_bathroom": 0.5
+            },
+            "bedrooms_stats": {
+                "max_bedroom": 1,
+                "min_bedroom": 1
+            },
+            "delivered_at": "2025-07-01T01:00:00-05:00",
+            "has_balcony": false,
+            "max_area": 73,
+            "min_area": 35,
+            "min_price": 2646733,
+            "parking_stats": {
+                "total": 0
+            }
+        },
+        "location": {
+            "business_hub": "Ciudad de México",
+            "business_hub_code": "MXHCIUDADDEMEXICO",
+            "city": "Ciudad de México",
+            "city_code": "MX09001",
+            "country": "México",
+            "country_code": "MX",
+            "latitude": 19.4374624,
+            "longitude": -99.16184109999999,
+            "neighborhood": "San Rafael",
+            "neighborhood_code": "MX09001L000015023",
+            "state": "Ciudad de México",
+            "state_code": "MX09",
+            "zone": "Cuauhtémoc",
+            "zone_code": "MX09001Z000013511"
+        },
+        "name": "Park San Rafael",
+        "seo": {
+            "url": "https://www.lahaus.mx/pd/ciudad-de-mexico/park-san-rafael"
+        }
+    }
+]

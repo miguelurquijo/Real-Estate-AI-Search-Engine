@@ -10,7 +10,7 @@ export async function summarizeInput(userInput, promptFilePath) {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-                Authorization: `OPENAI_API_KEY`,
+                Authorization: `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`,
             },
             body: JSON.stringify({
                 model: "gpt-4o",
