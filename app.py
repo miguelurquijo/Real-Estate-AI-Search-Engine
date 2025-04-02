@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='sk-proj-xxxxxx')
 import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity

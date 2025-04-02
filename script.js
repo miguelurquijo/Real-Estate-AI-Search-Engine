@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json",
-                        Authorization: `Bearer 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`
+                        Authorization: `Bearer sk-proj-Yxxxxxx`
                     },
                     body: JSON.stringify({
                         model: "gpt-4",
