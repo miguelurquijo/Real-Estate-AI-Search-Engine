@@ -262,3 +262,35 @@ body {
     width: auto;
     align-items: left;
 }
+
+/* Results section styles */
+.results-section {
+    margin-bottom: 40px;
+}
+
+.results-heading {
+    font-size: 24px;
+    font-weight: 600;
+    color: #242E2C;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.no-results {
+    text-align: center;
+    font-size: 18px;
+    padding: 40px;
+    color: #666;
+}
+
+.pre-filtered {
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+.error-message {
+    color: #d9534f;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+}

@@ -98,34 +98,52 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Function to create a property card element for API data
-    function createPropertyCard(listing) {
-        // Format the date
-        let deliverAtFormatted = formatDeliveryDate(listing.ims?.delivered_at);
-
-        // Format the price as MXN currency
-        let minPriceFormatted = listing.ims?.min_price
-            ? new Intl.NumberFormat("es-MX", {
-                style: "currency",
-                currency: "MXN",
-                minimumFractionDigits: 0,
-            }).format(listing.ims.min_price)
-            : "Price Not Available";
+    function createPropertyCardForSearchResults(project) {
         const card = document.createElement("div");
         card.classList.add("card");
+    
+        // Safely access properties with fallbacks
+        const name = project.name || "No Name";
+        const neighborhood = project.neighborhood || "Unknown Neighborhood";
+        const zone = project.zone || "Unknown Zone";
+        const cover = project.cover || "https://via.placeholder.com/312";
+        const price = project.price;
+        const similarityScore = project.similarity_score;
+    
+        // Format the price as MXN currency - divide by millions for display
+        let priceFormatted;
+        if (price) {
+            if (price >= 1000000) {
+                // Format in millions (e.g., "4.5 millones")
+                const millionsValue = (price / 1000000).toFixed(1);
+                priceFormatted = `${millionsValue} millones MXN`;
+            } else {
+                // Format as regular currency
+                priceFormatted = new Intl.NumberFormat("es-MX", {
+                    style: "currency",
+                    currency: "MXN",
+                    minimumFractionDigits: 0,
+                }).format(price);
+            }
+        } else {
+            priceFormatted = "Precio no disponible";
+        }
+    
         card.innerHTML = `
             <div class="card-image">
-                <img src="${listing.attributes?.cover || "https://via.placeholder.com/312"
-            }" alt="Image of ${listing.name}">
+                <img src="${cover}" alt="Image of ${name}">
                 <div class="image-chip">
-                    <p>${deliverAtFormatted}</p>
+                    <p>Entrega Inmediata</p>
+                </div>
+                <div class="image-content">
+                    <h2 class="street">${name}</h2>
+                    <h3 class="address">${neighborhood}, ${zone}</h3>
                 </div>
             </div>
             <div class="card-details">
                 <div class="price-info">
-                    <h2 class="street">${listing.name || "No Name"}</h2>
-                    <h3 class="address">${listing.location?.neighborhood || "Unknown Neighborhood"
-            }, ${listing.location?.zone || "Unknown Zone"}</h3>
-                    <p>${minPriceFormatted} MXN</p>
+                    <p>${priceFormatted}</p>
+                    ${similarityScore ? `<small>Match: ${(similarityScore * 100).toFixed(0)}%</small>` : ''}
                 </div>
             </div>
         `;
@@ -158,7 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json",
-                        Authorization: `Bearer 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`, // Replace with your OpenAI API key
+                        Authorization: `Bearer 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`
                     },
                     body: JSON.stringify({
                         model: "gpt-4",
@@ -230,74 +248,275 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Function to search projects using the summary
     async function searchProjects(summary) {
-        console.log("Inside searchProjects function"); // Debugging log
+        console.log("Inside searchProjects function");
+        
         try {
+            // Extract potential filter criteria from the summary
+            const filters = extractFiltersFromSummary(summary);
+            console.log("Extracted filters:", filters);
+            
             const response = await fetch('http://127.0.0.1:5001/search', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ query: summary, top_n: 120 })
+                body: JSON.stringify({ 
+                    query: summary, 
+                    top_n: 50,
+                    filters: filters // Send extracted filters to backend
+                })
             });
-
+    
+            if (!response.ok) {
+                throw new Error(`Server responded with status: ${response.status}`);
+            }
+    
             const data = await response.json();
             console.log("Search results:", data);
-
-            // Display the property cards based on the search results
-            displayPropertyCardsForSearchResults(data);
+    
+            // Check if we received the expected data structure
+            if (!data || (!data.pre_filtered_results && !data.semantic_results)) {
+                throw new Error("Unexpected response format from server");
+            }
+    
+            // Show both result sets
+            const preFilteredResults = data.pre_filtered_results || [];
+            const semanticResults = data.semantic_results || [];
+            
+            displaySearchResults(preFilteredResults, semanticResults);
         } catch (error) {
             console.error("Error fetching projects:", error);
+            // Show error message in UI
+            const container = document.getElementById('property-cards-container');
+            if (container) {
+                container.innerHTML = `<p class="error-message">Error finding properties: ${error.message}</p>`;
+            }
         }
     }
 
     // Function to display property cards for search results
     function displayPropertyCardsForSearchResults(results) {
-        console.log("Inside displayPropertyCardsForSearchResults function");
-        const container = document.getElementById('property-cards-container');
-        if (!container) {
-            console.error("Property cards container not found");
-            return;
-        }
-        container.innerHTML = ''; // Clear existing cards
+    console.log("Inside displayPropertyCardsForSearchResults function");
+    const container = document.getElementById('property-cards-container');
+    if (!container) {
+        console.error("Property cards container not found");
+        return;
+    }
+    container.innerHTML = ''; // Clear existing cards
 
-        if (!Array.isArray(results) || results.length === 0) {
-            container.innerHTML = '<p>No matching projects found.</p>';
-            return;
-        }
+    if (!Array.isArray(results) || results.length === 0) {
+        container.innerHTML = '<p>No matching projects found.</p>';
+        return;
+    }
 
-        results.forEach(result => {
+    results.forEach(result => {
+        // Check if result has the necessary properties
+        if (result) {
             const card = createPropertyCardForSearchResults(result);
             container.appendChild(card);
-        });
+        }
+    });
     }
 
     // Function to create a property card element for search results
     function createPropertyCardForSearchResults(project) {
         const card = document.createElement("div");
         card.classList.add("card");
-
+    
+        // Safely access properties with fallbacks
+        const name = project.name || "No Name";
+        const neighborhood = project.neighborhood || "Unknown Neighborhood";
+        const zone = project.zone || "Unknown Zone";
+        const cover = project.cover || "https://via.placeholder.com/312";
+        const price = project.price;
+        const similarityScore = project.similarity_score;
+    
         // Format the price as MXN currency
-        let minPriceFormatted = project.price
+        let minPriceFormatted = price
             ? new Intl.NumberFormat("es-MX", {
                 style: "currency",
                 currency: "MXN",
                 minimumFractionDigits: 0,
-            }).format(project.price)
+            }).format(price)
             : "Price Not Available";
-
+    
         card.innerHTML = `
             <div class="card-image">
-                <img src="${project.cover || "https://via.placeholder.com/312"}" alt="Image of ${project.name}">
+                <img src="${cover}" alt="Image of ${name}">
                 <div class="image-chip">
                     <p>Entrega Inmediata</p>
+                </div>
+                <div class="image-content">
+                    <h2 class="street">${name}</h2>
+                    <h3 class="address">${neighborhood}, ${zone}</h3>
                 </div>
             </div>
             <div class="card-details">
                 <div class="price-info">
-                    <h2 class="street">${project.name || "No Name"}</h2>
-                    <h3 class="address">${project.neighborhood || "Unknown Neighborhood"}, ${project.zone || "Unknown Zone"}</h3>
-                    <p>${minPriceFormatted} MXN</p>
-                    <p>Similarity Score: ${(project.similarity_score * 100).toFixed(2)}%</p>
+                    <p>${minPriceFormatted}</p>
+                    ${similarityScore ? `<small>Match: ${(similarityScore * 100).toFixed(0)}%</small>` : ''}
+                </div>
+            </div>
+        `;
+        return card;
+    }
+
+    // Add this function to extract filters from summary text
+    function extractFiltersFromSummary(summary) {
+        const filters = {};
+        
+        // Extract price information - look for millones pattern
+        const minPriceMatch = summary.match(/Precio\s+Mínimo:\s*(\d[\d,]*)/i) || 
+                              summary.match(/Precio.*?(\d[\d,]*)\s*(?:a|millones).*?/i) ||
+                              summary.match(/de\s*(\d[\d,]*)\s*(?:a|millones)/i);
+                              
+        const maxPriceMatch = summary.match(/Precio\s+Máximo:\s*(\d[\d,]*)/i) || 
+                              summary.match(/a\s*(\d[\d,]*)\s*millones/i);
+        
+        console.log("Min price match:", minPriceMatch);
+        console.log("Max price match:", maxPriceMatch);
+        
+        if (minPriceMatch && minPriceMatch[1]) {
+            // Convert to millions (e.g., convert "4" to 4000000)
+            filters.min_price = parseInt(minPriceMatch[1].replace(/,/g, '')) * 1000000;
+            console.log("Set min_price to:", filters.min_price);
+        }
+        
+        if (maxPriceMatch && maxPriceMatch[1]) {
+            // Convert to millions (e.g., convert "6" to 6000000)
+            filters.max_price = parseInt(maxPriceMatch[1].replace(/,/g, '')) * 1000000;
+            console.log("Set max_price to:", filters.max_price);
+        }
+        
+        // Extract bedrooms information
+        const bedroomsMatch = summary.match(/Recamaras:\s*(\d+)/i);
+        if (bedroomsMatch && bedroomsMatch[1]) {
+            filters.min_bedroom = parseInt(bedroomsMatch[1]);
+        }
+        
+        // Extract bathrooms information
+        const bathroomsMatch = summary.match(/Baños:\s*(\d+)/i);
+        if (bathroomsMatch && bathroomsMatch[1]) {
+            filters.min_bathroom = parseInt(bathroomsMatch[1]);
+        }
+        
+        // Extract area information
+        const areaMatch = summary.match(/Tamaño:\s*(\d+)/i) || 
+                         summary.match(/(\d+)\s*m2/i);
+        if (areaMatch && areaMatch[1]) {
+            filters.min_area = parseInt(areaMatch[1]);
+        }
+        
+        // Extract location information
+        const locationMatch = summary.match(/Ubicación:\s*([^•\n]+)/i);
+        if (locationMatch && locationMatch[1]) {
+            const locationName = locationMatch[1].trim();
+            filters.location = { neighborhood: locationName };
+        }
+        
+        console.log("Extracted filters:", filters);
+        return filters;
+    }
+
+    function displaySearchResults(preFilteredResults, semanticResults) {
+        const container = document.getElementById('property-cards-container');
+        if (!container) {
+            console.error("Property cards container not found");
+            return;
+        }
+        
+        // Clear existing content
+        container.innerHTML = '';
+        
+        // Create section headings and results display
+        if (preFilteredResults.length === 0 && semanticResults.length === 0) {
+            container.innerHTML = '<div class="no-results">No matching properties found</div>';
+            return;
+        }
+        
+        // Display semantic results section
+        if (semanticResults.length > 0) {
+            const semanticSection = document.createElement('div');
+            semanticSection.className = 'results-section';
+            
+            const semanticHeading = document.createElement('h2');
+            semanticHeading.className = 'results-heading';
+            semanticHeading.textContent = 'Recommended Properties';
+            semanticSection.appendChild(semanticHeading);
+            
+            const semanticResultsContainer = document.createElement('div');
+            semanticResultsContainer.className = 'plp-body';
+            
+            semanticResults.forEach(result => {
+                const card = createPropertyCardForSearchResults(result);
+                semanticResultsContainer.appendChild(card);
+            });
+            
+            semanticSection.appendChild(semanticResultsContainer);
+            container.appendChild(semanticSection);
+        }
+        
+        // Display pre-filtered results section
+        if (preFilteredResults.length > 0) {
+            // Only show pre-filtered section if there are no semantic results 
+            // or if there are fewer than 5 semantic results
+            if (semanticResults.length === 0 || semanticResults.length < 5) {
+                const preFilteredSection = document.createElement('div');
+                preFilteredSection.className = 'results-section pre-filtered';
+                
+                const preFilteredHeading = document.createElement('h2');
+                preFilteredHeading.className = 'results-heading';
+                preFilteredHeading.textContent = 'Other Properties Within Your Criteria';
+                preFilteredSection.appendChild(preFilteredHeading);
+                
+                const preFilteredResultsContainer = document.createElement('div');
+                preFilteredResultsContainer.className = 'plp-body';
+                
+                preFilteredResults.forEach(result => {
+                    // Don't show results that are already in the semantic results
+                    if (!semanticResults.some(sr => sr.name === result.name)) {
+                        const card = createPropertyCardForSearchResults(result);
+                        preFilteredResultsContainer.appendChild(card);
+                    }
+                });
+                
+                if (preFilteredResultsContainer.children.length > 0) {
+                    preFilteredSection.appendChild(preFilteredResultsContainer);
+                    container.appendChild(preFilteredSection);
+                }
+            }
+        }
+    }
+
+    function createPropertyCard(listing) {
+        // Format the date
+        let deliverAtFormatted = formatDeliveryDate(listing.ims?.delivered_at);
+    
+        // Format the price as MXN currency
+        let minPriceFormatted = listing.ims?.min_price
+            ? new Intl.NumberFormat("es-MX", {
+                style: "currency",
+                currency: "MXN",
+                minimumFractionDigits: 0,
+            }).format(listing.ims.min_price)
+            : "Price Not Available";
+        
+        const card = document.createElement("div");
+        card.classList.add("card");
+        card.innerHTML = `
+            <div class="card-image">
+                <img src="${listing.attributes?.cover || "https://via.placeholder.com/312"}" alt="Image of ${listing.name}">
+                <div class="image-chip">
+                    <p>${deliverAtFormatted}</p>
+                </div>
+                <div class="image-content">
+                    <h2 class="street">${listing.name || "No Name"}</h2>
+                    <h3 class="address">${listing.location?.neighborhood || "Unknown Neighborhood"}, ${listing.location?.zone || "Unknown Zone"}</h3>
+                </div>
+            </div>
+            <div class="card-details">
+                <div class="price-info">
+                    <p>${minPriceFormatted}</p>
                 </div>
             </div>
         `;
